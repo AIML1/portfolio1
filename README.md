@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AIML1
+- 👋 Hi, I’m srilalitha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python coding
 - 💞️ I’m looking to collaborate on AI & ML
